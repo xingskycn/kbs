@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/worker
+END
+gameplay.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/worker/gameplay.c
+END
+gameinit.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/worker/gameinit.h
+END
+screens.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/worker/screens.c
+END
+gamedata.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/worker/gamedata.c
+END
+gameplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/1835/trunk/kbs_bbs/service/worker/gameplay.h
+END
+screens.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/9234/trunk/kbs_bbs/service/worker/screens.h
+END
+gamedata.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/worker/gamedata.h
+END
+gametty.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/3281/trunk/kbs_bbs/service/worker/gametty.c
+END
+welcome
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/1837/trunk/kbs_bbs/service/worker/welcome
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/1825/trunk/kbs_bbs/service/worker/CREDITS
+END
+maingame.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/worker/maingame.c
+END
+gametty.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/3281/trunk/kbs_bbs/service/worker/gametty.h
+END
+gamedefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/worker/gamedefs.h
+END
+USAGE
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/kbs/!svn/ver/1825/trunk/kbs_bbs/service/worker/USAGE
+END
+gamedraw.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/worker/gamedraw.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/1825/trunk/kbs_bbs/service/worker/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/9447/trunk/kbs_bbs/service/worker/Makefile.am
+END
+worker.tgz
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/10049/trunk/kbs_bbs/service/worker/worker.tgz
+END
+gamedraw.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/1825/trunk/kbs_bbs/service/worker/gamedraw.h
+END
+gameinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/worker/gameinit.c
+END

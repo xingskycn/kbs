@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/9701/trunk/kbs_bbs/contrib/smth11to12
+END
+strip_fh.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/kbs/!svn/ver/6267/trunk/kbs_bbs/contrib/smth11to12/strip_fh.c
+END
+cnv_bh_3.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/kbs/!svn/ver/6267/trunk/kbs_bbs/contrib/smth11to12/cnv_bh_3.c
+END
+cnv_passwd_wform.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/kbs/!svn/ver/6290/trunk/kbs_bbs/contrib/smth11to12/cnv_passwd_wform.c
+END
+cnv_passwd_define2.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/kbs/!svn/ver/6267/trunk/kbs_bbs/contrib/smth11to12/cnv_passwd_define2.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/kbs/!svn/ver/6280/trunk/kbs_bbs/contrib/smth11to12/Makefile.am
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/6268/trunk/kbs_bbs/contrib/smth11to12/README
+END

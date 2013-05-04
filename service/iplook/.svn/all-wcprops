@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/kbs/!svn/ver/8316/trunk/kbs_bbs/service/iplook
+END
+build.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/5808/trunk/kbs_bbs/service/iplook/build.cpp
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/5810/trunk/kbs_bbs/service/iplook/test.c
+END
+QQwry.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/8316/trunk/kbs_bbs/service/iplook/QQwry.txt
+END
+convert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/5815/trunk/kbs_bbs/service/iplook/convert.cpp
+END
+decode.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/5814/trunk/kbs_bbs/service/iplook/decode.asm
+END
+iplook.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/5810/trunk/kbs_bbs/service/iplook/iplook.h
+END
+wryext.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/5815/trunk/kbs_bbs/service/iplook/wryext.c
+END
+look.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/5810/trunk/kbs_bbs/service/iplook/look.c
+END
+looktest.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/5811/trunk/kbs_bbs/service/iplook/looktest.c
+END
+bin2obj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/5808/trunk/kbs_bbs/service/iplook/bin2obj.cpp
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/5812/trunk/kbs_bbs/service/iplook/readme.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/5818/trunk/kbs_bbs/service/iplook/Makefile
+END

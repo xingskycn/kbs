@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/kbs/!svn/ver/11092/trunk/kbs_bbs/innbbsd
+END
+wildmat.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/wildmat.c
+END
+bbslib.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/bbslib.h
+END
+daemon.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/daemon.c
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/AUTHORS
+END
+bbsnnrp.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10180/trunk/kbs_bbs/innbbsd/bbsnnrp.c
+END
+daemon.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/daemon.h
+END
+killspam.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/killspam.c
+END
+dbzinnbbsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/dbzinnbbsd.c
+END
+dbz.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/kbs/!svn/ver/10180/trunk/kbs_bbs/innbbsd/dbz.c
+END
+innbbsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/innbbsd.c
+END
+dbz.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/dbz.h
+END
+innbbsd.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/innbbsd.h
+END
+nntp.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/nntp.h
+END
+port.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/port.c
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/COPYING
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/NEWS
+END
+nocem.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/nocem.c
+END
+linkinnd.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/linkinnd.sh.in
+END
+pmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/pmain.c
+END
+dbz_query_sample.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/dbz_query_sample.c
+END
+qp_conv.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/qp_conv.c
+END
+r_port.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/r_port.c
+END
+dbzserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/dbzserver.c
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/ChangeLog
+END
+nocem.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/nocem.h
+END
+closeonexec.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/closeonexec.c
+END
+rfc931.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/rfc931.c
+END
+connectsock.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/connectsock.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/README
+END
+clibrary.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/clibrary.h
+END
+dbztool.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10180/trunk/kbs_bbs/innbbsd/dbztool.c
+END
+makedbz.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/makedbz.c
+END
+inntobbs.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10180/trunk/kbs_bbs/innbbsd/inntobbs.c
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/file.c
+END
+inndchannel.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/inndchannel.c
+END
+lang.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/lang.c
+END
+ctlinnbbsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/ctlinnbbsd.c
+END
+his.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/kbs/!svn/ver/10324/trunk/kbs_bbs/innbbsd/his.c
+END
+inntobbs.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/inntobbs.h
+END
+bbslink.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10324/trunk/kbs_bbs/innbbsd/bbslink.c
+END
+filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/filter.c
+END
+receive_article.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/11092/trunk/kbs_bbs/innbbsd/receive_article.c
+END
+innbbsconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/innbbsconf.h
+END
+lang.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/lang.h
+END
+inn_funcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/inn_funcs.h
+END
+his.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/his.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/Makefile.am
+END
+mkhistory.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/mkhistory.c
+END
+parsdate.y
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/parsdate.y
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/version.h
+END
+echobbslib.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/echobbslib.c
+END
+externs.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/externs.h
+END
+bbslib.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/bbslib.c
+END

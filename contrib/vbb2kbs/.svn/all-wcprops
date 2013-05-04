@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/10323/trunk/kbs_bbs/contrib/vbb2kbs
+END
+convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/10323/trunk/kbs_bbs/contrib/vbb2kbs/convert.c
+END
+convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/8585/trunk/kbs_bbs/contrib/vbb2kbs/convert.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/8585/trunk/kbs_bbs/contrib/vbb2kbs/readme.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/8585/trunk/kbs_bbs/contrib/vbb2kbs/Makefile
+END

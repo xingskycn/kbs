@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/contrib
+END
+smthnews.active
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/contrib/smthnews.active
+END
+filter.ctl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/contrib/filter.ctl
+END
+ncmperm.bbs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/contrib/ncmperm.bbs
+END
+nodelist.bbs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/contrib/nodelist.bbs
+END
+newsfeeds.bbs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/contrib/newsfeeds.bbs
+END
+hisconvert.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/contrib/hisconvert.in
+END
+bbsname.bbs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/kbs/!svn/ver/10152/trunk/kbs_bbs/innbbsd/contrib/bbsname.bbs
+END

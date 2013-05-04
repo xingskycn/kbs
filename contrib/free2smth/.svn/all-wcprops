@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/11127/trunk/kbs_bbs/contrib/free2smth
+END
+fb2kstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/kbs/!svn/ver/7043/trunk/kbs_bbs/contrib/free2smth/fb2kstruct.h
+END
+convboards.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/kbs/!svn/ver/7043/trunk/kbs_bbs/contrib/free2smth/convboards.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/kbs/!svn/ver/7043/trunk/kbs_bbs/contrib/free2smth/Makefile.in
+END
+definekey.lilac
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/kbs/!svn/ver/7043/trunk/kbs_bbs/contrib/free2smth/definekey.lilac
+END
+gen_title.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/kbs/!svn/ver/11127/trunk/kbs_bbs/contrib/free2smth/gen_title.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/7043/trunk/kbs_bbs/contrib/free2smth/README
+END
+calc_effsize.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/kbs/!svn/ver/7043/trunk/kbs_bbs/contrib/free2smth/calc_effsize.c
+END
+tags
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/7043/trunk/kbs_bbs/contrib/free2smth/tags
+END
+strip_fh.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/kbs/!svn/ver/7043/trunk/kbs_bbs/contrib/free2smth/strip_fh.c
+END
+chfavbrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/kbs/!svn/ver/11127/trunk/kbs_bbs/contrib/free2smth/chfavbrd.c
+END
+conv_pc4fb2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/kbs/!svn/ver/7043/trunk/kbs_bbs/contrib/free2smth/conv_pc4fb2k.c
+END
+chlevel.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/kbs/!svn/ver/11127/trunk/kbs_bbs/contrib/free2smth/chlevel.c
+END
+lilac.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/9701/trunk/kbs_bbs/contrib/free2smth/lilac.c
+END
+convpasswd.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/kbs/!svn/ver/7043/trunk/kbs_bbs/contrib/free2smth/convpasswd.c
+END
+oldstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/kbs/!svn/ver/7043/trunk/kbs_bbs/contrib/free2smth/oldstruct.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/kbs/!svn/ver/7043/trunk/kbs_bbs/contrib/free2smth/Makefile.am
+END
+lilac.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/7043/trunk/kbs_bbs/contrib/free2smth/lilac.h
+END

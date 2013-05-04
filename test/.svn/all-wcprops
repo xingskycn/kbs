@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/kbs/!svn/ver/8703/trunk/kbs_bbs/test
+END
+avltest.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/kbs/!svn/ver/7319/trunk/kbs_bbs/test/avltest.c
+END
+super_filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/8123/trunk/kbs_bbs/test/super_filter.c
+END
+strnzhcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/8703/trunk/kbs_bbs/test/strnzhcpy.c
+END
+ansi.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/kbs/!svn/ver/2351/trunk/kbs_bbs/test/ansi.txt
+END
+ansi.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/kbs/!svn/ver/4820/trunk/kbs_bbs/test/ansi.c
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/kbs/!svn/ver/10169/trunk/kbs_bbs/rzsz
+END
+canit.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/kbs/!svn/ver/1153/trunk/kbs_bbs/rzsz/canit.c
+END
+crctab.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/kbs/!svn/ver/1153/trunk/kbs_bbs/rzsz/crctab.c
+END
+zglobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/kbs/!svn/ver/9830/trunk/kbs_bbs/rzsz/zglobal.h
+END
+zmodem.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/kbs/!svn/ver/10169/trunk/kbs_bbs/rzsz/zmodem.h
+END
+zm.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/kbs/!svn/ver/5641/trunk/kbs_bbs/rzsz/zm.c
+END
+lrz.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/kbs/!svn/ver/10169/trunk/kbs_bbs/rzsz/lrz.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/9447/trunk/kbs_bbs/rzsz/Makefile.am
+END
+lsz.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/kbs/!svn/ver/10169/trunk/kbs_bbs/rzsz/lsz.c
+END
+rbsb.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/kbs/!svn/ver/5641/trunk/kbs_bbs/rzsz/rbsb.c
+END
+zreadline.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/4766/trunk/kbs_bbs/rzsz/zreadline.c
+END

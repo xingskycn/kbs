@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/personaldns
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/personaldns/main.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/kbs/!svn/ver/9447/trunk/kbs_bbs/service/personaldns/Makefile.am
+END

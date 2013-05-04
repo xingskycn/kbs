@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/kbs/!svn/ver/10323/trunk/kbs_bbs/mail2bbs
+END
+tcp.pl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/kbs/!svn/ver/2688/trunk/kbs_bbs/mail2bbs/tcp.pl
+END
+rfc931.pl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/2688/trunk/kbs_bbs/mail2bbs/rfc931.pl
+END
+mime_dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/9324/trunk/kbs_bbs/mail2bbs/mime_dec.c
+END
+sendmail.cf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/207/trunk/kbs_bbs/mail2bbs/sendmail.cf
+END
+qp_conv.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/9324/trunk/kbs_bbs/mail2bbs/qp_conv.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/kbs/!svn/ver/9447/trunk/kbs_bbs/mail2bbs/Makefile.am
+END
+bbsmail
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/10007/trunk/kbs_bbs/mail2bbs/bbsmail
+END
+sendmail.cf.sunos
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/207/trunk/kbs_bbs/mail2bbs/sendmail.cf.sunos
+END
+bbsqmail
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/9914/trunk/kbs_bbs/mail2bbs/bbsqmail
+END
+mail2bbs.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/kbs/!svn/ver/10323/trunk/kbs_bbs/mail2bbs/mail2bbs.c
+END
+mailgate.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10007/trunk/kbs_bbs/mail2bbs/mailgate.pl
+END
+qmail2bbs.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10323/trunk/kbs_bbs/mail2bbs/qmail2bbs.c
+END

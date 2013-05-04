@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/kbs/!svn/ver/11561/trunk/kbs_bbs/contrib
+END
+crontab.SMTH
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10383/trunk/kbs_bbs/contrib/crontab.SMTH
+END
+build-bootstrap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/kbs/!svn/ver/10009/trunk/kbs_bbs/contrib/build-bootstrap.sh
+END
+killall
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/10416/trunk/kbs_bbs/contrib/killall
+END
+bbs2html.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/kbs/!svn/ver/10009/trunk/kbs_bbs/contrib/bbs2html.sh
+END
+build-cygwin.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/10007/trunk/kbs_bbs/contrib/build-cygwin.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/9251/trunk/kbs_bbs/contrib/Makefile.am
+END
+rc.bbs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/kbs/!svn/ver/10007/trunk/kbs_bbs/contrib/rc.bbs
+END
+mkonlinepng.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/10007/trunk/kbs_bbs/contrib/mkonlinepng.sh
+END
+build-cygpkg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/10007/trunk/kbs_bbs/contrib/build-cygpkg.sh
+END
+indent.smth
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/2455/trunk/kbs_bbs/contrib/indent.smth
+END
+day.plt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/kbs/!svn/ver/5738/trunk/kbs_bbs/contrib/day.plt
+END
+build-redhat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/10173/trunk/kbs_bbs/contrib/build-redhat.sh
+END
+backup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10383/trunk/kbs_bbs/contrib/backup.sh
+END

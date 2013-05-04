@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/kbs/!svn/ver/11559/trunk/kbs_bbs/bbshome/etc
+END
+title
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/title
+END
+menu.ini
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10255/trunk/kbs_bbs/bbshome/etc/menu.ini
+END
+sysconf.ini.SAMPLE
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/kbs/!svn/ver/10165/trunk/kbs_bbs/bbshome/etc/sysconf.ini.SAMPLE
+END
+register
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10165/trunk/kbs_bbs/bbshome/etc/register
+END
+title_keyword
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/11028/trunk/kbs_bbs/bbshome/etc/title_keyword
+END
+fmail
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10165/trunk/kbs_bbs/bbshome/etc/fmail
+END
+loginfull
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/10165/trunk/kbs_bbs/bbshome/etc/loginfull
+END
+denymail_template
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/kbs/!svn/ver/11107/trunk/kbs_bbs/bbshome/etc/denymail_template
+END
+junkboards
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/junkboards
+END
+f_fill.ip
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/10526/trunk/kbs_bbs/bbshome/etc/f_fill.ip
+END
+menu.ini.SAMPLE
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/kbs/!svn/ver/10165/trunk/kbs_bbs/bbshome/etc/menu.ini.SAMPLE
+END
+smail
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10165/trunk/kbs_bbs/bbshome/etc/smail
+END
+deny_reason
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/deny_reason
+END
+f_fill.chinese
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/f_fill.chinese
+END
+s_fill
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10165/trunk/kbs_bbs/bbshome/etc/s_fill
+END
+f_fill.old
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/f_fill.old
+END
+anonymous.1001
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/anonymous.1001
+END
+logout
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10165/trunk/kbs_bbs/bbshome/etc/logout
+END
+f_fill.unit
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/f_fill.unit
+END
+f_fill.telephone
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/f_fill.telephone
+END
+f_fill.real
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/f_fill.real
+END
+f_fill.realname
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/f_fill.realname
+END
+f_fill.address
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/f_fill.address
+END
+movie
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10165/trunk/kbs_bbs/bbshome/etc/movie
+END
+f_fill.toomany
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/f_fill.toomany
+END
+mailcheck
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/10165/trunk/kbs_bbs/bbshome/etc/mailcheck
+END
+g2b_table
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/g2b_table
+END
+b2g_table
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/b2g_table
+END
+ip_arrange.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/ip_arrange.txt
+END
+f_fill.reply
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/f_fill.reply
+END
+issue
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10165/trunk/kbs_bbs/bbshome/etc/issue
+END
+goodbye
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/kbs/!svn/ver/10165/trunk/kbs_bbs/bbshome/etc/goodbye
+END
+anonymous
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/anonymous
+END
+checknotepad
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/checknotepad
+END
+bbsnet.ini
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/bbsnet.ini
+END
+f_fill
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10165/trunk/kbs_bbs/bbshome/etc/f_fill
+END
+anonymous.501
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/anonymous.501
+END
+emailpost
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/10165/trunk/kbs_bbs/bbshome/etc/emailpost
+END
+newregister
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/10165/trunk/kbs_bbs/bbshome/etc/newregister
+END
+denypost_template
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/kbs/!svn/ver/10713/trunk/kbs_bbs/bbshome/etc/denypost_template
+END
+sysops
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10165/trunk/kbs_bbs/bbshome/etc/sysops
+END
+user_full
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/10165/trunk/kbs_bbs/bbshome/etc/user_full
+END
+sysconf.ini
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/11559/trunk/kbs_bbs/bbshome/etc/sysconf.ini
+END
+f_fill.phone
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/f_fill.phone
+END
+WWWFAVRITEDEFAULT
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/WWWFAVRITEDEFAULT
+END
+msg.db
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/11512/trunk/kbs_bbs/bbshome/etc/msg.db
+END
+autopost
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/etc/autopost
+END

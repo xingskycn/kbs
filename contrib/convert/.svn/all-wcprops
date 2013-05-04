@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/10745/trunk/kbs_bbs/contrib/convert
+END
+refriend.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/8151/trunk/kbs_bbs/contrib/convert/refriend.c
+END
+cnv_bh.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/8151/trunk/kbs_bbs/contrib/convert/cnv_bh.c
+END
+g2b_table
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/8157/trunk/kbs_bbs/contrib/convert/g2b_table
+END
+cnv_fh.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/9988/trunk/kbs_bbs/contrib/convert/cnv_fh.c
+END
+cnv_passwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/kbs/!svn/ver/8151/trunk/kbs_bbs/contrib/convert/cnv_passwd.c
+END
+cnv_brdflag.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/kbs/!svn/ver/8151/trunk/kbs_bbs/contrib/convert/cnv_brdflag.c
+END
+recalc_signum.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/kbs/!svn/ver/8151/trunk/kbs_bbs/contrib/convert/recalc_signum.c
+END
+convclub.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/9362/trunk/kbs_bbs/contrib/convert/convclub.c
+END
+ch_brdflag.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/kbs/!svn/ver/8151/trunk/kbs_bbs/contrib/convert/ch_brdflag.c
+END
+cnv_brddir.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/kbs/!svn/ver/8151/trunk/kbs_bbs/contrib/convert/cnv_brddir.c
+END
+calc_effsize.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/kbs/!svn/ver/8151/trunk/kbs_bbs/contrib/convert/calc_effsize.c
+END
+strip_fh.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/8151/trunk/kbs_bbs/contrib/convert/strip_fh.c
+END
+gen_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/kbs/!svn/ver/8151/trunk/kbs_bbs/contrib/convert/gen_table.c
+END
+cnv_bh2.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/8151/trunk/kbs_bbs/contrib/convert/cnv_bh2.c
+END
+change_tmpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/kbs/!svn/ver/8151/trunk/kbs_bbs/contrib/convert/change_tmpl.c
+END
+convpass356.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/kbs/!svn/ver/8151/trunk/kbs_bbs/contrib/convert/convpass356.c
+END
+cnv_register.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/kbs/!svn/ver/10745/trunk/kbs_bbs/contrib/convert/cnv_register.c
+END

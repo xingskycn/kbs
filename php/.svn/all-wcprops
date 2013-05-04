@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/kbs/!svn/ver/11618/trunk/kbs_bbs/php
+END
+bbslib.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/kbs/!svn/ver/10831/trunk/kbs_bbs/php/bbslib.h
+END
+phpbbs_announce.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/11591/trunk/kbs_bbs/php/phpbbs_announce.c
+END
+phpbbslib.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/11618/trunk/kbs_bbs/php/phpbbslib.c
+END
+phpbbs_announce.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/10166/trunk/kbs_bbs/php/phpbbs_announce.h
+END
+phpbbs_vote.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/11164/trunk/kbs_bbs/php/phpbbs_vote.c
+END
+phpbbs_user.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/11429/trunk/kbs_bbs/php/phpbbs_user.c
+END
+phpbbs_wforum.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/kbs/!svn/ver/11274/trunk/kbs_bbs/php/phpbbs_wforum.c
+END
+phpbbs_vote.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10445/trunk/kbs_bbs/php/phpbbs_vote.h
+END
+php_kbs_bbs.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/11276/trunk/kbs_bbs/php/php_kbs_bbs.h
+END
+phpbbs_article.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/11611/trunk/kbs_bbs/php/phpbbs_article.c
+END
+phpbbs_user.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/11429/trunk/kbs_bbs/php/phpbbs_user.h
+END
+phpbbs_system.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/kbs/!svn/ver/10445/trunk/kbs_bbs/php/phpbbs_system.c
+END
+phpbbs_wforum.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/kbs/!svn/ver/10445/trunk/kbs_bbs/php/phpbbs_wforum.h
+END
+phpbbs_article.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10166/trunk/kbs_bbs/php/phpbbs_article.h
+END
+phpbbs_system.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/kbs/!svn/ver/10166/trunk/kbs_bbs/php/phpbbs_system.h
+END
+phpbbs_bm.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/11595/trunk/kbs_bbs/php/phpbbs_bm.c
+END
+phpbbs_bm.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/10713/trunk/kbs_bbs/php/phpbbs_bm.h
+END
+phpbbs_member.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/kbs/!svn/ver/11581/trunk/kbs_bbs/php/phpbbs_member.c
+END
+phpbbs_friend.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/kbs/!svn/ver/10962/trunk/kbs_bbs/php/phpbbs_friend.c
+END
+config.m4.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/10166/trunk/kbs_bbs/php/config.m4.in
+END
+phpbbs_member.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/kbs/!svn/ver/11582/trunk/kbs_bbs/php/phpbbs_member.h
+END
+phpbbs_friend.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/kbs/!svn/ver/10962/trunk/kbs_bbs/php/phpbbs_friend.h
+END
+phpbbs_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/11467/trunk/kbs_bbs/php/phpbbs_reg.c
+END
+phpbbs_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/11616/trunk/kbs_bbs/php/phpbbs_file.c
+END
+phpbbs_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/10754/trunk/kbs_bbs/php/phpbbs_reg.h
+END
+phpbbs_mail.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/11536/trunk/kbs_bbs/php/phpbbs_mail.c
+END
+phpbbs_session.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/11333/trunk/kbs_bbs/php/phpbbs_session.c
+END
+phpbbs_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/11611/trunk/kbs_bbs/php/phpbbs_file.h
+END
+phpbbs_post.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/11598/trunk/kbs_bbs/php/phpbbs_post.c
+END
+phpbbs_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/10445/trunk/kbs_bbs/php/phpbbs_msg.c
+END
+phpbbs_mail.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/11534/trunk/kbs_bbs/php/phpbbs_mail.h
+END
+phpbbs_board.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/11143/trunk/kbs_bbs/php/phpbbs_board.c
+END
+phpbbs_session.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/11062/trunk/kbs_bbs/php/phpbbs_session.h
+END
+phpbbs_admin.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10445/trunk/kbs_bbs/php/phpbbs_admin.c
+END
+phpbbs_post.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/11005/trunk/kbs_bbs/php/phpbbs_post.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/11234/trunk/kbs_bbs/php/Makefile.am
+END
+phpbbs_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/10166/trunk/kbs_bbs/php/phpbbs_msg.h
+END
+phpbbs_errorno.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10445/trunk/kbs_bbs/php/phpbbs_errorno.h
+END
+phpbbs_board.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/11048/trunk/kbs_bbs/php/phpbbs_board.h
+END
+phpbbs_admin.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10166/trunk/kbs_bbs/php/phpbbs_admin.h
+END
+bbslib.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/kbs/!svn/ver/11380/trunk/kbs_bbs/php/bbslib.c
+END

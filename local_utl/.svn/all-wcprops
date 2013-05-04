@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/kbs/!svn/ver/11574/trunk/kbs_bbs/local_utl
+END
+statguy.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/statguy.c
+END
+bmerge.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/bmerge.c
+END
+genbindex.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/genbindex.c
+END
+fhedit.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10516/trunk/kbs_bbs/local_utl/fhedit.c
+END
+dump_user_title.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/dump_user_title.c
+END
+authd.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/11096/trunk/kbs_bbs/local_utl/authd.c
+END
+mails.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/11266/trunk/kbs_bbs/local_utl/mails.c
+END
+refresh_reply.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/refresh_reply.c
+END
+ultimate_search.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/ultimate_search.c
+END
+shutbbs.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/shutbbs.c
+END
+mailbirth.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/mailbirth.c
+END
+uonlinelog.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/uonlinelog.c
+END
+statkiller.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/statkiller.c
+END
+blogstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/blogstat.c
+END
+settoptitle.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/10335/trunk/kbs_bbs/local_utl/settoptitle.c
+END
+urlencode.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/6277/trunk/kbs_bbs/local_utl/urlencode.c
+END
+listonline.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/listonline.c
+END
+genhot.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10757/trunk/kbs_bbs/local_utl/genhot.c
+END
+fix_nowid.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/11547/trunk/kbs_bbs/local_utl/fix_nowid.c
+END
+postfilealt.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/11573/trunk/kbs_bbs/local_utl/postfilealt.c
+END
+process_invalid_mail.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/process_invalid_mail.c
+END
+bonlinelog.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/10998/trunk/kbs_bbs/local_utl/bonlinelog.c
+END
+statBM.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10555/trunk/kbs_bbs/local_utl/statBM.c
+END
+autoundeny.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/11148/trunk/kbs_bbs/local_utl/autoundeny.c
+END
+newpoststat.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/10873/trunk/kbs_bbs/local_utl/newpoststat.c
+END
+lazybm.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/lazybm.c
+END
+showBM.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/showBM.c
+END
+idx0Ann.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/idx0Ann.c
+END
+post_buse.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/11343/trunk/kbs_bbs/local_utl/post_buse.c
+END
+delete_mail.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/10604/trunk/kbs_bbs/local_utl/delete_mail.c
+END
+usage.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/11574/trunk/kbs_bbs/local_utl/usage.c
+END
+Bhtml.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/Bhtml.c
+END
+Weather_sort.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/Weather_sort.c
+END
+login.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10834/trunk/kbs_bbs/local_utl/login.c
+END
+alluserlog.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/alluserlog.c
+END
+sync_mailsize.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/sync_mailsize.c
+END
+genbplot.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/genbplot.c
+END
+gen_title.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/gen_title.c
+END
+bootstrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/10837/trunk/kbs_bbs/local_utl/bootstrap.c
+END
+scanIP.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/scanIP.c
+END
+dayuserlog.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/dayuserlog.c
+END
+post_brdlog.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/11139/trunk/kbs_bbs/local_utl/post_brdlog.c
+END
+find_rm_lost.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/11458/trunk/kbs_bbs/local_utl/find_rm_lost.c
+END
+find_lost_user.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/find_lost_user.c
+END
+autoclear.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/autoclear.c
+END
+scored.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/11096/trunk/kbs_bbs/local_utl/scored.c
+END
+listMODE.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/listMODE.c
+END
+poststat.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/poststat.c
+END
+fix_sysop.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/fix_sysop.c
+END
+utmpcheck.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/11096/trunk/kbs_bbs/local_utl/utmpcheck.c
+END
+outdaybm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/outdaybm.c
+END
+fixdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/fixdir.c
+END
+rebuild_digest.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/rebuild_digest.c
+END
+static.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10724/trunk/kbs_bbs/local_utl/static.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/11126/trunk/kbs_bbs/local_utl/Makefile.am
+END
+resetMailTotal.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/resetMailTotal.c
+END
+scanMODE.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/scanMODE.c
+END
+showipdeny.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/10467/trunk/kbs_bbs/local_utl/showipdeny.c
+END
+gennewboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/gennewboard.c
+END
+userexist.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/11096/trunk/kbs_bbs/local_utl/userexist.c
+END
+Xhtml.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/Xhtml.c
+END
+ulevel.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10446/trunk/kbs_bbs/local_utl/ulevel.c
+END

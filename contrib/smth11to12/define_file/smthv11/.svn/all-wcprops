@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/kbs/!svn/ver/7446/trunk/kbs_bbs/contrib/smth11to12/define_file/smthv11
+END
+devel.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/kbs/!svn/ver/6267/trunk/kbs_bbs/contrib/smth11to12/define_file/smthv11/devel.c
+END
+default.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/kbs/!svn/ver/7446/trunk/kbs_bbs/contrib/smth11to12/define_file/smthv11/default.c
+END
+devel.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/kbs/!svn/ver/6267/trunk/kbs_bbs/contrib/smth11to12/define_file/smthv11/devel.h
+END
+default.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/kbs/!svn/ver/6267/trunk/kbs_bbs/contrib/smth11to12/define_file/smthv11/default.h
+END
+struct.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/kbs/!svn/ver/6267/trunk/kbs_bbs/contrib/smth11to12/define_file/smthv11/struct.h
+END

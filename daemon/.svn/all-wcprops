@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/kbs/!svn/ver/11551/trunk/kbs_bbs/daemon
+END
+miscd.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/kbs/!svn/ver/11551/trunk/kbs_bbs/daemon/miscd.c
+END
+station.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/10724/trunk/kbs_bbs/daemon/station.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/9447/trunk/kbs_bbs/daemon/Makefile.am
+END
+webmsgd.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/4800/trunk/kbs_bbs/daemon/webmsgd.c
+END
+utmpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/kbs/!svn/ver/207/trunk/kbs_bbs/daemon/utmpd.c
+END
+newpop3.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/10708/trunk/kbs_bbs/daemon/newpop3.c
+END
+bbslogd.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/11472/trunk/kbs_bbs/daemon/bbslogd.c
+END
+bbssmsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/7460/trunk/kbs_bbs/daemon/bbssmsd.c
+END

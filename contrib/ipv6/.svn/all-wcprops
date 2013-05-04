@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/kbs/!svn/ver/8597/trunk/kbs_bbs/contrib/ipv6
+END
+README.ipv6
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/8597/trunk/kbs_bbs/contrib/ipv6/README.ipv6
+END
+cnv_ipv6.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/7913/trunk/kbs_bbs/contrib/ipv6/cnv_ipv6.c
+END

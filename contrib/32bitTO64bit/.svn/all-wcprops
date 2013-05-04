@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10064/trunk/kbs_bbs/contrib/32bitTO64bit
+END
+cnv_passwd64.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/kbs/!svn/ver/10064/trunk/kbs_bbs/contrib/32bitTO64bit/cnv_passwd64.c
+END
+cnv_vote.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/kbs/!svn/ver/10064/trunk/kbs_bbs/contrib/32bitTO64bit/cnv_vote.c
+END
+cnv_msgindex.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/kbs/!svn/ver/10064/trunk/kbs_bbs/contrib/32bitTO64bit/cnv_msgindex.c
+END
+doit.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/kbs/!svn/ver/10064/trunk/kbs_bbs/contrib/32bitTO64bit/doit.sh
+END
+cnv_boards64.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/kbs/!svn/ver/10064/trunk/kbs_bbs/contrib/32bitTO64bit/cnv_boards64.c
+END
+cnv_clockdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/kbs/!svn/ver/10064/trunk/kbs_bbs/contrib/32bitTO64bit/cnv_clockdata.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/kbs/!svn/ver/10064/trunk/kbs_bbs/contrib/32bitTO64bit/README
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/11127/trunk/kbs_bbs/contrib/fb2k2smth
+END
+fb2kstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/kbs/!svn/ver/6851/trunk/kbs_bbs/contrib/fb2k2smth/fb2kstruct.h
+END
+strip_fh.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/kbs/!svn/ver/6846/trunk/kbs_bbs/contrib/fb2k2smth/strip_fh.c
+END
+chfavbrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/kbs/!svn/ver/11127/trunk/kbs_bbs/contrib/fb2k2smth/chfavbrd.c
+END
+conv_pc4fb2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/kbs/!svn/ver/6846/trunk/kbs_bbs/contrib/fb2k2smth/conv_pc4fb2k.c
+END
+convboards.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/kbs/!svn/ver/8097/trunk/kbs_bbs/contrib/fb2k2smth/convboards.c
+END
+chlevel.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/kbs/!svn/ver/11127/trunk/kbs_bbs/contrib/fb2k2smth/chlevel.c
+END
+lilac.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/9701/trunk/kbs_bbs/contrib/fb2k2smth/lilac.c
+END
+definekey.lilac
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/kbs/!svn/ver/6852/trunk/kbs_bbs/contrib/fb2k2smth/definekey.lilac
+END
+convpasswd.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/kbs/!svn/ver/8383/trunk/kbs_bbs/contrib/fb2k2smth/convpasswd.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/kbs/!svn/ver/6850/trunk/kbs_bbs/contrib/fb2k2smth/Makefile.am
+END
+lilac.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/6847/trunk/kbs_bbs/contrib/fb2k2smth/lilac.h
+END
+gen_title.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/kbs/!svn/ver/11127/trunk/kbs_bbs/contrib/fb2k2smth/gen_title.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/6854/trunk/kbs_bbs/contrib/fb2k2smth/README
+END
+calc_effsize.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/kbs/!svn/ver/6846/trunk/kbs_bbs/contrib/fb2k2smth/calc_effsize.c
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/pip
+END
+pip_practice.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/pip/pip_practice.c
+END
+pip_store.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/pip/pip_store.c
+END
+pip_for_fb.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/pip/pip_for_fb.c
+END
+pip_fight.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/pip/pip_fight.c
+END
+pip_menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/pip/pip_menu.c
+END
+pip_ending.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/pip/pip_ending.c
+END
+pip_play.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/pip/pip_play.c
+END
+pip_job.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/pip/pip_job.c
+END
+pip_pic.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/pip/pip_pic.c
+END
+pip_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/pip/pip_file.c
+END
+pip_special.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/pip/pip_special.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/9447/trunk/kbs_bbs/service/pip/Makefile.am
+END
+pip_other.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/pip/pip_other.c
+END
+pip_basic.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/pip/pip_basic.c
+END
+pip_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/pip/pip_main.c
+END
+pip_system.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/pip/pip_system.c
+END
+pip.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10483/trunk/kbs_bbs/service/pip/pip.h
+END

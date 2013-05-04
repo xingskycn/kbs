@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/kbs/!svn/ver/11612/trunk/kbs_bbs/bbshome
+END
+Version.Info
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/Version.Info
+END
+dotlogin
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/10165/trunk/kbs_bbs/bbshome/dotlogin
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/10165/trunk/kbs_bbs/bbshome/COPYING
+END
+dotcshrc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/10165/trunk/kbs_bbs/bbshome/dotcshrc
+END
+uhashgen.dat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10150/trunk/kbs_bbs/bbshome/uhashgen.dat
+END
+Welcome
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/10165/trunk/kbs_bbs/bbshome/Welcome
+END

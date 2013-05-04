@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/kbs/!svn/ver/11618/trunk/kbs_bbs/libBBS
+END
+libmember.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/11618/trunk/kbs_bbs/libBBS/libmember.c
+END
+output.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/10439/trunk/kbs_bbs/libBBS/output.c
+END
+xml.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/kbs/!svn/ver/10439/trunk/kbs_bbs/libBBS/xml.c
+END
+crypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/kbs/!svn/ver/10439/trunk/kbs_bbs/libBBS/crypt.c
+END
+libann.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/11609/trunk/kbs_bbs/libBBS/libann.c
+END
+bcache.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/11584/trunk/kbs_bbs/libBBS/bcache.c
+END
+article.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/11615/trunk/kbs_bbs/libBBS/article.c
+END
+sysconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/10439/trunk/kbs_bbs/libBBS/sysconf.c
+END
+utmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/kbs/!svn/ver/11087/trunk/kbs_bbs/libBBS/utmp.c
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/kbs/!svn/ver/10439/trunk/kbs_bbs/libBBS/md5.c
+END
+librefer.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/11604/trunk/kbs_bbs/libBBS/librefer.c
+END
+libdacl.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/11475/trunk/kbs_bbs/libBBS/libdacl.c
+END
+libar_newsmth.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/11599/trunk/kbs_bbs/libBBS/libar_newsmth.c
+END
+convcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/kbs/!svn/ver/10439/trunk/kbs_bbs/libBBS/convcode.c
+END
+super_filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/11483/trunk/kbs_bbs/libBBS/super_filter.c
+END
+libtmpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/10770/trunk/kbs_bbs/libBBS/libtmpl.c
+END
+pass.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/kbs/!svn/ver/10839/trunk/kbs_bbs/libBBS/pass.c
+END
+mgrep.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/kbs/!svn/ver/10439/trunk/kbs_bbs/libBBS/mgrep.c
+END
+boards.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/11594/trunk/kbs_bbs/libBBS/boards.c
+END
+libmsg.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/10554/trunk/kbs_bbs/libBBS/libmsg.c
+END
+record.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/11441/trunk/kbs_bbs/libBBS/record.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/kbs/!svn/ver/11472/trunk/kbs_bbs/libBBS/log.c
+END
+bbs_sendmail.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/10928/trunk/kbs_bbs/libBBS/bbs_sendmail.c
+END
+filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/10439/trunk/kbs_bbs/libBBS/filter.c
+END
+libbm.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/kbs/!svn/ver/11594/trunk/kbs_bbs/libBBS/libbm.c
+END
+stuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/kbs/!svn/ver/11456/trunk/kbs_bbs/libBBS/stuff.c
+END
+lvars.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/kbs/!svn/ver/11553/trunk/kbs_bbs/libBBS/lvars.c
+END
+libnewmsg.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/11542/trunk/kbs_bbs/libBBS/libnewmsg.c
+END
+ucache.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/11254/trunk/kbs_bbs/libBBS/ucache.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/11577/trunk/kbs_bbs/libBBS/Makefile.am
+END
+libauth.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/10578/trunk/kbs_bbs/libBBS/libauth.c
+END
+libpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/kbs/!svn/ver/10439/trunk/kbs_bbs/libBBS/libpc.c
+END
+member_cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/kbs/!svn/ver/11579/trunk/kbs_bbs/libBBS/member_cache.c
+END

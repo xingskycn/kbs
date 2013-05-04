@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/kbs/!svn/ver/10599/trunk/kbs_bbs/contrib/scripts
+END
+backtrace
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/10007/trunk/kbs_bbs/contrib/scripts/backtrace
+END
+clearipc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/kbs/!svn/ver/10599/trunk/kbs_bbs/contrib/scripts/clearipc
+END
+sendmail.cf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/kbs/!svn/ver/8151/trunk/kbs_bbs/contrib/scripts/sendmail.cf
+END
+whois.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/kbs/!svn/ver/8151/trunk/kbs_bbs/contrib/scripts/whois.pl
+END
+combine.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/kbs/!svn/ver/10396/trunk/kbs_bbs/contrib/scripts/combine.sh
+END
+cleartitle
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/kbs/!svn/ver/10007/trunk/kbs_bbs/contrib/scripts/cleartitle
+END
+startbbsd
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/kbs/!svn/ver/10007/trunk/kbs_bbs/contrib/scripts/startbbsd
+END
+buildAnnIDX.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/kbs/!svn/ver/10007/trunk/kbs_bbs/contrib/scripts/buildAnnIDX.sh
+END

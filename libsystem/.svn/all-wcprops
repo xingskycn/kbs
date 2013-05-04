@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/kbs/!svn/ver/11206/trunk/kbs_bbs/libsystem
+END
+base64.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/kbs/!svn/ver/10440/trunk/kbs_bbs/libsystem/base64.c
+END
+kbs_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/kbs/!svn/ver/11206/trunk/kbs_bbs/libsystem/kbs_string.c
+END
+uuencode.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/10440/trunk/kbs_bbs/libsystem/uuencode.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/kbs/!svn/ver/9447/trunk/kbs_bbs/libsystem/Makefile.am
+END
+f_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/kbs/!svn/ver/10440/trunk/kbs_bbs/libsystem/f_io.c
+END
